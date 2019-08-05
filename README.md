@@ -1,2 +1,2 @@
-# datawhale-
+# datawhale
 datawhale
